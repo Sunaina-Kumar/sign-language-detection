@@ -1,0 +1,7 @@
+-Create a Data folder in the same directory.
+
+-Add your own data sets by first executing datacollecton.py file and     	to capture your training data press "l" key .
+
+-After creating your data sets , train data using google teachable 	machine or any other platform.
+
+-Execute the test1.py to see the results. 
